@@ -1,0 +1,23 @@
+appdirs==1.4.4
+asgiref==3.2.10
+beautifulsoup4==4.9.1
+brotlipy==0.7.0
+bs4==0.0.1
+certifi==2020.6.20
+cffi==1.14.0
+chardet==3.0.4
+cryptography==2.9.2
+distlib==0.3.0
+Django==3.0.7
+filelock==3.0.12
+idna==2.9
+pycparser==2.20
+pyOpenSSL==19.1.0
+PySocks==1.7.1
+pytz==2020.1
+requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+six==1.15.0
+soupsieve==2.0.1
+sqlparse==0.3.1
+urllib3==1.25.9
+virtualenv==20.0.20
